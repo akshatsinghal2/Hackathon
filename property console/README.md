@@ -1,13 +1,14 @@
 # Property Portal
-Property Portal using MySQL, JS, Php and CSS.
+Property Portal using MySQL, Php, CSS and JS.
 
 
 ## Languages and Technologies used
-1. HTML5/CSS3
-2. JavaScript (to create dynamically updating content)
-3. XAMPP (A web server by Apache Friends)
-4. Php
-5. MySQL (An RDBMS that uses SQL)
+1. HTML5
+2. CSS3
+3. Php
+4. JavaScript (to create dynamically updating content)
+5. XAMPP (A web server by Apache Friends)
+6. MySQL (An RDBMS that uses SQL)
 
 
 ## GETTING INTO THE PROJECT:
